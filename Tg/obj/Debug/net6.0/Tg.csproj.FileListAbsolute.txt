@@ -1,0 +1,15 @@
+C:\Users\denys\source\repos\Tg\bin\Debug\net6.0\Tg.exe
+C:\Users\denys\source\repos\Tg\bin\Debug\net6.0\Tg.deps.json
+C:\Users\denys\source\repos\Tg\bin\Debug\net6.0\Tg.runtimeconfig.json
+C:\Users\denys\source\repos\Tg\bin\Debug\net6.0\Tg.dll
+C:\Users\denys\source\repos\Tg\bin\Debug\net6.0\Tg.pdb
+C:\Users\denys\source\repos\Tg\obj\Debug\net6.0\Tg.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\Tg\obj\Debug\net6.0\Tg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\source\repos\Tg\obj\Debug\net6.0\Tg.AssemblyInfoInputs.cache
+C:\Users\denys\source\repos\Tg\obj\Debug\net6.0\Tg.AssemblyInfo.cs
+C:\Users\denys\source\repos\Tg\obj\Debug\net6.0\Tg.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\Tg\obj\Debug\net6.0\Tg.dll
+C:\Users\denys\source\repos\Tg\obj\Debug\net6.0\refint\Tg.dll
+C:\Users\denys\source\repos\Tg\obj\Debug\net6.0\Tg.pdb
+C:\Users\denys\source\repos\Tg\obj\Debug\net6.0\Tg.genruntimeconfig.cache
+C:\Users\denys\source\repos\Tg\obj\Debug\net6.0\ref\Tg.dll
